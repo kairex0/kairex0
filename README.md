@@ -1,16 +1,17 @@
-## Hi there 👋
+# Fatih Türkdönmez
 
-<!--
-**kairex0/kairex0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Seçili dijital projeler
 
-Here are some ideas to get you started:
+### Dijital portföy
+Çalışmalarımı, hizmet alanlarımı ve iletişim bilgilerimi bir araya getiren mobil uyumlu kişisel portföy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Canlı siteyi incele](https://fatih-turkdonmez-portfoy.fturkdonmez7.chatgpt.site/)
+
+### QR dijital profil başvurusu
+QR üzerinden açılan; dijital profil bilgilerini ve başvuru detaylarını iletmeyi kolaylaştıran form deneyimi.
+
+[Canlı sayfayı incele](https://dijital-profil-basvuru.fturkdonmez7.chatgpt.site/)
+
+---
+
+Projeler hakkında daha fazla bilgi, benzer bir çalışma veya iş birliği için [benimle iletişime geç](https://fatih-turkdonmez-portfoy.fturkdonmez7.chatgpt.site/#iletisim).
